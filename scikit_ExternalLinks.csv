@@ -1,0 +1,863 @@
+,Header,Links,Scikit_Location
+48,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Machine_learning,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+50,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Sample_(statistics),http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+51,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Multivariate_random_variable,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+52,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Supervised_learning,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+54,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Classification_in_machine_learning,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+55,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Regression_analysis,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+56,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Unsupervised_learning,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+57,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Cluster_analysis,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+58,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Density_estimation,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+61,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Iris_flower_data_set,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+62,An introduction to machine learning with scikit-learn,http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+63,An introduction to machine learning with scikit-learn,https://archive.ics.uci.edu/ml/machine-learning-databases/housing/,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+68,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Estimator,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+69,An introduction to machine learning with scikit-learn,https://en.wikipedia.org/wiki/Support_vector_machine,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+75,An introduction to machine learning with scikit-learn,https://docs.python.org/2/library/pickle.html,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+76,An introduction to machine learning with scikit-learn,https://pythonhosted.org/joblib/persistence.html,http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+1723,API Reference,https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma,http://scikit-learn.org/stable/modules/classes.html
+1835,API Reference,http://mlcomp.org/,http://scikit-learn.org/stable/modules/classes.html
+1929,Frequently Asked Questions,https://scikits.appspot.com/scikits,http://scikit-learn.org/stable/faq.html
+1930,Frequently Asked Questions,http://scikit-image.org/,http://scikit-learn.org/stable/faq.html
+1935,Frequently Asked Questions,http://stats.stackexchange.com,http://scikit-learn.org/stable/faq.html
+1936,Frequently Asked Questions,http://stackoverflow.com/questions/tagged/scikit-learn,http://scikit-learn.org/stable/faq.html
+1937,Frequently Asked Questions,https://mail.python.org/mailman/listinfo/scikit-learn,http://scikit-learn.org/stable/faq.html
+1938,Frequently Asked Questions,http://stackoverflow.com/help/mcve,http://scikit-learn.org/stable/faq.html
+1939,Frequently Asked Questions,https://github.com/scikit-learn/scikit-learn/issues,http://scikit-learn.org/stable/faq.html
+1940,Frequently Asked Questions,https://gitter.im/scikit-learn/scikit-learn,http://scikit-learn.org/stable/faq.html
+1946,Frequently Asked Questions,http://scikit-learn-contrib.github.io,http://scikit-learn.org/stable/faq.html
+1949,Frequently Asked Questions,https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf#page=8,http://scikit-learn.org/stable/faq.html
+1953,Frequently Asked Questions,http://pystruct.github.io/,http://scikit-learn.org/stable/faq.html
+1954,Frequently Asked Questions,http://larsmans.github.io/seqlearn/,http://scikit-learn.org/stable/faq.html
+1957,Frequently Asked Questions,http://pypy.org/,http://scikit-learn.org/stable/faq.html
+1963,Frequently Asked Questions,https://gcc.gnu.org/bugzilla/show_bug.cgi?id=60035,http://scikit-learn.org/stable/faq.html
+1964,Frequently Asked Questions,https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods,http://scikit-learn.org/stable/faq.html
+1970,Frequently Asked Questions,https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.seed.html#numpy.random.seed,http://scikit-learn.org/stable/faq.html
+1978,"External Resources, Videos and Talks",http://www.scipy-lectures.org/,http://scikit-learn.org/stable/presentations.html
+1980,"External Resources, Videos and Talks",http://nilearn.github.io/,http://scikit-learn.org/stable/presentations.html
+1981,"External Resources, Videos and Talks",https://github.com/astroML/sklearn_tutorial,http://scikit-learn.org/stable/presentations.html
+1983,"External Resources, Videos and Talks",https://conference.scipy.org/scipy2013/tutorial_detail.php?id=107,http://scikit-learn.org/stable/presentations.html
+1984,"External Resources, Videos and Talks",https://conference.scipy.org/scipy2013/tutorial_detail.php?id=111,http://scikit-learn.org/stable/presentations.html
+1985,"External Resources, Videos and Talks",http://gael-varoquaux.info,http://scikit-learn.org/stable/presentations.html
+1986,"External Resources, Videos and Talks",http://staff.washington.edu/jakevdp,http://scikit-learn.org/stable/presentations.html
+1987,"External Resources, Videos and Talks",https://twitter.com/ogrisel,http://scikit-learn.org/stable/presentations.html
+1988,"External Resources, Videos and Talks",https://github.com/jakevdp/sklearn_scipy2013,http://scikit-learn.org/stable/presentations.html
+1989,"External Resources, Videos and Talks",http://videolectures.net/icml2010_varaquaux_scik/,http://scikit-learn.org/stable/presentations.html
+1991,"External Resources, Videos and Talks",http://archive.org/search.php?query=scikit-learn,http://scikit-learn.org/stable/presentations.html
+1994,"External Resources, Videos and Talks",http://www.pyvideo.org/video/417/pycon-2011--statistical-machine-learning-for-text,http://scikit-learn.org/stable/presentations.html
+1995,"External Resources, Videos and Talks",http://www.slideshare.net/ogrisel/statistical-machine-learning-for-text-classification-with-scikitlearn-and-nltk,http://scikit-learn.org/stable/presentations.html
+1997,"External Resources, Videos and Talks",https://www.youtube.com/watch?v=Zd5dfooZWG4,http://scikit-learn.org/stable/presentations.html
+1999,"External Resources, Videos and Talks",https://newcircle.com/s/post/1152/scikit-learn_machine_learning_in_python,http://scikit-learn.org/stable/presentations.html
+2001,"External Resources, Videos and Talks",https://www.youtube.com/watch?v=cHZONQ2-x7I,http://scikit-learn.org/stable/presentations.html
+2005,Related Projects,https://github.com/scikit-learn-contrib/project-template,http://scikit-learn.org/stable/related_projects.html
+2006,Related Projects,https://github.com/scikit-learn-contrib/scikit-learn-contrib,http://scikit-learn.org/stable/related_projects.html
+2008,Related Projects,https://github.com/paulgb/sklearn-pandas/,http://scikit-learn.org/stable/related_projects.html
+2009,Related Projects,https://github.com/phausamann/sklearn-xarray/,http://scikit-learn.org/stable/related_projects.html
+2010,Related Projects,https://github.com/ClimbsRocks/auto_ml/,http://scikit-learn.org/stable/related_projects.html
+2011,Related Projects,https://github.com/automl/auto-sklearn/,http://scikit-learn.org/stable/related_projects.html
+2012,Related Projects,https://github.com/rhiever/tpot,http://scikit-learn.org/stable/related_projects.html
+2013,Related Projects,https://scikit-optimize.github.io/,http://scikit-learn.org/stable/related_projects.html
+2014,Related Projects,https://github.com/yandex/REP,http://scikit-learn.org/stable/related_projects.html
+2015,Related Projects,https://github.com/jeff1evesque/machine-learning,http://scikit-learn.org/stable/related_projects.html
+2016,Related Projects,https://github.com/jeff1evesque/machine-learning#web-interface,http://scikit-learn.org/stable/related_projects.html
+2017,Related Projects,https://github.com/jeff1evesque/machine-learning#programmatic-interface,http://scikit-learn.org/stable/related_projects.html
+2018,Related Projects,https://skll.readthedocs.io/en/latest/index.html,http://scikit-learn.org/stable/related_projects.html
+2019,Related Projects,https://github.com/reiinakano/xcessiv,http://scikit-learn.org/stable/related_projects.html
+2020,Related Projects,https://github.com/TeamHG-Memex/eli5/,http://scikit-learn.org/stable/related_projects.html
+2021,Related Projects,https://github.com/rasbt/mlxtend,http://scikit-learn.org/stable/related_projects.html
+2022,Related Projects,https://github.com/reiinakano/scikit-plot,http://scikit-learn.org/stable/related_projects.html
+2023,Related Projects,https://github.com/DistrictDataLabs/yellowbrick,http://scikit-learn.org/stable/related_projects.html
+2024,Related Projects,https://github.com/alex-pirozhenko/sklearn-pmml,http://scikit-learn.org/stable/related_projects.html
+2025,Related Projects,https://github.com/jpmml/sklearn2pmml,http://scikit-learn.org/stable/related_projects.html
+2026,Related Projects,https://github.com/jpmml/jpmml-sklearn,http://scikit-learn.org/stable/related_projects.html
+2027,Related Projects,https://github.com/nok/sklearn-porter,http://scikit-learn.org/stable/related_projects.html
+2028,Related Projects,https://github.com/ajtulloch/sklearn-compiledtrees/,http://scikit-learn.org/stable/related_projects.html
+2030,Related Projects,https://github.com/larsmans/seqlearn,http://scikit-learn.org/stable/related_projects.html
+2031,Related Projects,https://github.com/hmmlearn/hmmlearn,http://scikit-learn.org/stable/related_projects.html
+2032,Related Projects,https://pystruct.github.io,http://scikit-learn.org/stable/related_projects.html
+2033,Related Projects,https://github.com/jmschrei/pomegranate,http://scikit-learn.org/stable/related_projects.html
+2034,Related Projects,https://github.com/TeamHG-Memex/sklearn-crfsuite,http://scikit-learn.org/stable/related_projects.html
+2035,Related Projects,http://www.chokkan.org/software/crfsuite/,http://scikit-learn.org/stable/related_projects.html
+2036,Related Projects,http://deeplearning.net/software/pylearn2/,http://scikit-learn.org/stable/related_projects.html
+2037,Related Projects,http://sklearn-theano.github.io/,http://scikit-learn.org/stable/related_projects.html
+2038,Related Projects,https://github.com/dnouri/nolearn,http://scikit-learn.org/stable/related_projects.html
+2039,Related Projects,https://github.com/fchollet/keras,http://scikit-learn.org/stable/related_projects.html
+2040,Related Projects,https://github.com/Lasagne/Lasagne,http://scikit-learn.org/stable/related_projects.html
+2042,Related Projects,https://github.com/lensacom/sparkit-learn,http://scikit-learn.org/stable/related_projects.html
+2043,Related Projects,https://github.com/dmlc/xgboost,http://scikit-learn.org/stable/related_projects.html
+2044,Related Projects,http://mlens.readthedocs.io/en/latest/,http://scikit-learn.org/stable/related_projects.html
+2045,Related Projects,https://github.com/scikit-learn-contrib/lightning,http://scikit-learn.org/stable/related_projects.html
+2046,Related Projects,https://github.com/scikit-learn-contrib/py-earth,http://scikit-learn.org/stable/related_projects.html
+2047,Related Projects,https://github.com/jmetzen/kernel_regression,http://scikit-learn.org/stable/related_projects.html
+2048,Related Projects,https://github.com/trevorstephens/gplearn,http://scikit-learn.org/stable/related_projects.html
+2049,Related Projects,https://github.com/alexfields/multiisotonic,http://scikit-learn.org/stable/related_projects.html
+2050,Related Projects,https://scikit.ml,http://scikit-learn.org/stable/related_projects.html
+2051,Related Projects,https://github.com/dmbee/seglearn,http://scikit-learn.org/stable/related_projects.html
+2052,Related Projects,https://github.com/ariddell/lda/,http://scikit-learn.org/stable/related_projects.html
+2053,Related Projects,https://en.wikipedia.org/wiki/Gibbs_sampling,http://scikit-learn.org/stable/related_projects.html
+2055,Related Projects,https://en.wikipedia.org/wiki/Variational_Bayesian_methods,http://scikit-learn.org/stable/related_projects.html
+2056,Related Projects,https://github.com/jmetzen/sparse-filtering,http://scikit-learn.org/stable/related_projects.html
+2057,Related Projects,https://github.com/nicodv/kmodes,http://scikit-learn.org/stable/related_projects.html
+2058,Related Projects,https://github.com/scikit-learn-contrib/hdbscan,http://scikit-learn.org/stable/related_projects.html
+2059,Related Projects,https://github.com/clara-labs/spherecluster,http://scikit-learn.org/stable/related_projects.html
+2060,Related Projects,https://github.com/scikit-learn-contrib/categorical-encoding,http://scikit-learn.org/stable/related_projects.html
+2061,Related Projects,https://github.com/scikit-learn-contrib/imbalanced-learn,http://scikit-learn.org/stable/related_projects.html
+2063,Related Projects,http://pandas.pydata.org,http://scikit-learn.org/stable/related_projects.html
+2064,Related Projects,http://deeplearning.net/software/theano/,http://scikit-learn.org/stable/related_projects.html
+2065,Related Projects,http://www.statsmodels.org,http://scikit-learn.org/stable/related_projects.html
+2066,Related Projects,http://pymc-devs.github.io/pymc/,http://scikit-learn.org/stable/related_projects.html
+2067,Related Projects,https://github.com/IDSIA/Sacred,http://scikit-learn.org/stable/related_projects.html
+2068,Related Projects,http://stanford.edu/~mwaskom/software/seaborn/,http://scikit-learn.org/stable/related_projects.html
+2069,Related Projects,http://deeplearning.net/software_links/,http://scikit-learn.org/stable/related_projects.html
+2071,Related Projects,http://scikit-image.org/,http://scikit-learn.org/stable/related_projects.html
+2072,Related Projects,http://www.nltk.org/,http://scikit-learn.org/stable/related_projects.html
+2073,Related Projects,https://radimrehurek.com/gensim/,http://scikit-learn.org/stable/related_projects.html
+2074,Related Projects,https://nilearn.github.io/,http://scikit-learn.org/stable/related_projects.html
+2075,Related Projects,http://www.astroml.org/,http://scikit-learn.org/stable/related_projects.html
+2076,Related Projects,http://msmbuilder.org/,http://scikit-learn.org/stable/related_projects.html
+2077,Related Projects,http://surpriselib.com,http://scikit-learn.org/stable/related_projects.html
+2079,Related Projects,https://github.com/scikit-learn/scikit-learn/wiki/Third-party-projects-and-code-snippets,http://scikit-learn.org/stable/related_projects.html
+2304,1.4. Support Vector Machines,http://www.csie.ntu.edu.tw/~cjlin/papers/svmprob/svmprob.pdf,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2305,1.4. Support Vector Machines,http://www.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/Platt1999.pdf,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2337,1.4. Support Vector Machines,http://www.csie.ntu.edu.tw/~cjlin/libsvm/,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2340,1.4. Support Vector Machines,http://www.csie.ntu.edu.tw/~cjlin/liblinear/,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2383,1.4. Support Vector Machines,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7215,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2384,1.4. Support Vector Machines,http://link.springer.com/article/10.1007%2FBF00994018,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2387,1.4. Support Vector Machines,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.114.4288,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2391,1.4. Support Vector Machines,http://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf,http://scikit-learn.org/stable/modules/svm.html#svm-classification
+2425,1.6. Nearest Neighbors,../auto_examples/neighbors/plot_classification.html,http://scikit-learn.org/stable/modules/neighbors.html#classification
+2442,1.6. Nearest Neighbors,http://dl.acm.org/citation.cfm?doid=361002.361007,http://scikit-learn.org/stable/modules/neighbors.html#classification
+2446,1.6. Nearest Neighbors,http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.91.8209,http://scikit-learn.org/stable/modules/neighbors.html#classification
+2459,1.6. Nearest Neighbors,../auto_examples/neighbors/plot_nearest_centroid.html,http://scikit-learn.org/stable/modules/neighbors.html#classification
+2533,1.11. Ensemble methods,https://en.wikipedia.org/wiki/Gradient_boosting,http://scikit-learn.org/stable/modules/ensemble.html#forest
+2880,Examples,https://sphinx-gallery.readthedocs.io,http://scikit-learn.org/stable/auto_examples/index.html#general-examples
+3211,1.1. Generalized Linear Models,http://cbcl.mit.edu/publications/ps/MIT-CSAIL-TR-2007-025.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3212,1.1. Generalized Linear Models,http://www.mit.edu/~9.520/spring07/Classes/rlsslides.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3222,1.1. Generalized Linear Models,https://www.jstatsoft.org/article/view/v033i01/v33i01.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3223,1.1. Generalized Linear Models,https://web.stanford.edu/~boyd/papers/pdf/l1_ls.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3233,1.1. Generalized Linear Models,../auto_examples/linear_model/plot_lasso_model_selection.html,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3242,1.1. Generalized Linear Models,../auto_examples/linear_model/plot_multi_task_lasso_support.html,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3269,1.1. Generalized Linear Models,http://www-stat.stanford.edu/~hastie/Papers/LARS/LeastAngle_2002.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3275,1.1. Generalized Linear Models,http://www.cs.technion.ac.il/~ronrubin/Publications/KSVD-OMP-v2.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3276,1.1. Generalized Linear Models,http://blanche.polytechnique.fr/~mallat/papiers/MallatPursuit93.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3278,1.1. Generalized Linear Models,https://en.wikipedia.org/wiki/Non-informative_prior#Uninformative_priors,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3282,1.1. Generalized Linear Models,https://en.wikipedia.org/wiki/Gamma_distribution,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3287,1.1. Generalized Linear Models,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.9072&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3301,1.1. Generalized Linear Models,http://papers.nips.cc/paper/3372-a-new-view-of-automatic-relevance-determination.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3303,1.1. Generalized Linear Models,http://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3305,1.1. Generalized Linear Models,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.8603&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3307,1.1. Generalized Linear Models,https://en.wikipedia.org/wiki/Logistic_function,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3310,1.1. Generalized Linear Models,http://www.csie.ntu.edu.tw/~cjlin/liblinear/,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3328,1.1. Generalized Linear Models,https://hal.inria.fr/hal-00860051/document,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3330,1.1. Generalized Linear Models,https://arxiv.org/abs/1407.0202,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3341,1.1. Generalized Linear Models,http://jmlr.csail.mit.edu/papers/volume7/crammer06a/crammer06a.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3345,1.1. Generalized Linear Models,../auto_examples/linear_model/plot_robust_fit.html,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3370,1.1. Generalized Linear Models,https://en.wikipedia.org/wiki/RANSAC,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3371,1.1. Generalized Linear Models,https://www.sri.com/sites/default/files/publications/ransac-publication.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3372,1.1. Generalized Linear Models,http://www.bmva.org/bmvc/2009/Papers/Paper355/Paper355.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3377,1.1. Generalized Linear Models,https://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3387,1.1. Generalized Linear Models,http://home.olemiss.edu/~xdang/papers/MTSE.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3389,1.1. Generalized Linear Models,http://users.jyu.fi/~samiayr/pdf/ayramo_eurogen05.pdf,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3405,1.1. Generalized Linear Models,http://www.ats.ucla.edu/stat/r/dae/rreg.htm,http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression
+3913,2.3. Clustering,https://en.wikipedia.org/wiki/Cluster_analysis,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3935,2.3. Clustering,inertia,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3936,2.3. Clustering,PCA,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3939,2.3. Clustering,https://en.wikipedia.org/wiki/Voronoi_diagram,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3943,2.3. Clustering,http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3953,2.3. Clustering,http://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3963,2.3. Clustering,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.8968&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3966,2.3. Clustering,https://github.com/pyamg/pyamg,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3967,2.3. Clustering,http://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3968,2.3. Clustering,../auto_examples/cluster/plot_segmentation_toy.html,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3974,2.3. Clustering,../auto_examples/cluster/plot_coin_segmentation.html,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3977,2.3. Clustering,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.165.9323,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3978,2.3. Clustering,http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.160.2324,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3979,2.3. Clustering,http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.1501,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3980,2.3. Clustering,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.8100,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3982,2.3. Clustering,https://en.wikipedia.org/wiki/Hierarchical_clustering,http://scikit-learn.org/stable/modules/clustering.html#clustering
+3994,2.3. Clustering,../auto_examples/cluster/plot_ward_structured_vs_unstructured.html,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4017,2.3. Clustering,../auto_examples/cluster/plot_dbscan.html,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4023,2.3. Clustering,http://www.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4024,2.3. Clustering,https://code.google.com/archive/p/jbirch,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4032,2.3. Clustering,http://link.springer.com/article/10.1007%2FBF01908075,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4033,2.3. Clustering,https://en.wikipedia.org/wiki/Rand_index#Adjusted_Rand_index,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4042,2.3. Clustering,http://strehl.com/download/strehl-jmlr02.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4043,2.3. Clustering,https://dl.acm.org/citation.cfm?doid=1553374.1553511,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4044,2.3. Clustering,http://jmlr.csail.mit.edu/papers/volume11/vinh10a/vinh10a.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4045,2.3. Clustering,https://en.wikipedia.org/wiki/Mutual_Information,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4046,2.3. Clustering,https://en.wikipedia.org/wiki/Adjusted_Mutual_Information,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4047,2.3. Clustering,https://www.nature.com/articles/srep30750,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4062,2.3. Clustering,http://aclweb.org/anthology/D/D07/D07-1043.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4064,2.3. Clustering,http://www.cs.columbia.edu/~hila/hila-thesis-distributed.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4069,2.3. Clustering,http://wildfire.stat.ucla.edu/pdflibrary/fowlkes.pdf,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4070,2.3. Clustering,https://en.wikipedia.org/wiki/Fowlkes-Mallows_index,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4073,2.3. Clustering,https://doi.org/10.1016/0377-0427(87)90125-7,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4081,2.3. Clustering,https://doi.org/10.1080/03610926.2011.560741,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4086,2.3. Clustering,http://dx.doi.org/10.1109/TPAMI.1979.4766909,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4087,2.3. Clustering,http://dx.doi.org/10.1023/A:1012801612483,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4088,2.3. Clustering,https://en.wikipedia.org/wiki/Davies–Bouldin_index,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4094,2.3. Clustering,https://en.wikipedia.org/wiki/Contingency_table,http://scikit-learn.org/stable/modules/clustering.html#clustering
+4947,2.5. Decomposing signals in components (matrix factorization problems),../auto_examples/decomposition/plot_faces_decomposition.html,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+4956,2.5. Decomposing signals in components (matrix factorization problems),http://arxiv.org/abs/0909.4061,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+4975,2.5. Decomposing signals in components (matrix factorization problems),http://www.di.ens.fr/sierra/pdfs/icml09.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+4977,2.5. Decomposing signals in components (matrix factorization problems),www.di.ens.fr/~fbach/sspca_AISTATS2010.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+4980,2.5. Decomposing signals in components (matrix factorization problems),http://nlp.stanford.edu/IR-book/pdf/18lsi.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+4999,2.5. Decomposing signals in components (matrix factorization problems),../auto_examples/decomposition/plot_image_denoising.html,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5058,2.5. Decomposing signals in components (matrix factorization problems),http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/nmf_nature.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5060,2.5. Decomposing signals in components (matrix factorization problems),http://www.jmlr.org/papers/volume5/hoyer04a/hoyer04a.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5062,2.5. Decomposing signals in components (matrix factorization problems),http://scgroup.hpclab.ceid.upatras.gr/faculty/stratis/Papers/HPCLAB020107.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5064,2.5. Decomposing signals in components (matrix factorization problems),http://www.bsp.brain.riken.jp/publications/2009/Cichocki-Phan-IEICE_col.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5067,2.5. Decomposing signals in components (matrix factorization problems),https://arxiv.org/pdf/1010.1763.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5073,2.5. Decomposing signals in components (matrix factorization problems),http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5074,2.5. Decomposing signals in components (matrix factorization problems),https://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5075,2.5. Decomposing signals in components (matrix factorization problems),http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf,http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+5265,1.13. Feature selection,http://users.isr.ist.utl.pt/~aguiar/CS_notes.pdf,http://scikit-learn.org/stable/modules/feature_selection.html#feature-selection
+5881,3.1. Cross-validation: evaluating estimator performance,https://en.wikipedia.org/wiki/Cross-validation_(statistics),http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5922,3.1. Cross-validation: evaluating estimator performance,http://www.faqs.org/faqs/ai-faq/neural-nets/part3/section-12.html,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5923,3.1. Cross-validation: evaluating estimator performance,https://web.stanford.edu/~hastie/ElemStatLearn/,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5924,3.1. Cross-validation: evaluating estimator performance,http://digitalassets.lib.berkeley.edu/sdtr/ucb/text/197.pdf,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5925,3.1. Cross-validation: evaluating estimator performance,http://web.cs.iastate.edu/~jtian/cs573/Papers/Kohavi-IJCAI-95.pdf,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5926,3.1. Cross-validation: evaluating estimator performance,http://people.csail.mit.edu/romer/papers/CrossVal_SDM08.pdf,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+5927,3.1. Cross-validation: evaluating estimator performance,http://www-bcf.usc.edu/~gareth/ISL,http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+6065,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Accuracy_and_precision,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6066,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Indicator_function,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6071,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Sensitivity_and_specificity,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6074,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Youden%27s_J_statistic,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6083,3.3. Model evaluation: quantifying the quality of predictions,http://ieeexplore.ieee.org/document/7280767/,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6086,3.3. Model evaluation: quantifying the quality of predictions,http://lib.dr.iastate.edu/etd/13537/,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6088,3.3. Model evaluation: quantifying the quality of predictions,https://mitpress.mit.edu/books/fundamentals-machine-learning-predictive-data-analytics,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6090,3.3. Model evaluation: quantifying the quality of predictions,https://doi.org/10.1007/s12065-015-0128-8,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6093,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Cohen%27s_kappa,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6096,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Confusion_matrix,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6109,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Hamming_distance,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6114,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Jaccard_index,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6116,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Precision_and_recall#Precision,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6117,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Precision_and_recall#Recall,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6118,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/F1_score,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6121,3.3. Model evaluation: quantifying the quality of predictions,http://en.wikipedia.org/w/index.php?title=Information_retrieval&oldid=793358396#Average_precision,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6145,3.3. Model evaluation: quantifying the quality of predictions,http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-ranked-retrieval-results-1.html,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6147,3.3. Model evaluation: quantifying the quality of predictions,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.5766&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6149,3.3. Model evaluation: quantifying the quality of predictions,http://www.machinelearning.org/proceedings/icml2006/030_The_Relationship_Bet.pdf,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6151,3.3. Model evaluation: quantifying the quality of predictions,http://papers.nips.cc/paper/5867-precision-recall-gain-curves-pr-analysis-done-right.pdf,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6163,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Hinge_loss,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6165,3.3. Model evaluation: quantifying the quality of predictions,http://jmlr.csail.mit.edu/papers/volume2/crammer01a/crammer01a.pdf,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6172,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Matthews_correlation_coefficient,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6173,3.3. Model evaluation: quantifying the quality of predictions,http://rk.kvl.dk/introduction/index.html,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6178,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Receiver_operating_characteristic,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6182,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6198,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Brier_score,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6200,3.3. Model evaluation: quantifying the quality of predictions,ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/mwr/078/mwr-078-01-0001.pdf,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6207,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Mean_reciprocal_rank,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6221,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Explained_variation,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6222,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Variance,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6226,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Mean_absolute_error,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6230,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Mean_squared_error,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6242,3.3. Model evaluation: quantifying the quality of predictions,https://en.wikipedia.org/wiki/Coefficient_of_determination,http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
+6561,4.3. Preprocessing data,http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html,http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+6580,4.3. Preprocessing data,https://en.wikipedia.org/wiki/Vector_Space_Model,http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+6591,4.3. Preprocessing data,https://en.wikipedia.org/wiki/Discretization_of_continuous_features,http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+6601,4.3. Preprocessing data,https://en.wikipedia.org/wiki/Bernoulli_distribution,http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+6617,4.3. Preprocessing data,https://en.wikipedia.org/wiki/Kernel_method,http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+6725,4.2. Feature extraction,https://en.wikipedia.org/wiki/Feature_hashing,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6736,4.2. Feature extraction,http://alex.smola.org/papers/2009/Weinbergeretal09.pdf,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6737,4.2. Feature extraction,https://github.com/aappleby/smhasher,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6747,4.2. Feature extraction,http://aclweb.org/anthology/W18-2502,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6763,4.2. Feature extraction,https://github.com/LuminosoInsight/python-ftfy,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6764,4.2. Feature extraction,http://www.joelonsoftware.com/articles/Unicode.html,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6784,4.2. Feature extraction,https://en.wikipedia.org/wiki/Out-of-core_algorithm,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+6788,4.2. Feature extraction,http://www.nltk.org,http://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction
+11573,Who is using scikit-learn?,http://www.spotify.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11576,Who is using scikit-learn?,http://www.inria.fr,http://scikit-learn.org/stable/testimonials/testimonials.html
+11579,Who is using scikit-learn?,https://team.inria.fr/parietal/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11580,Who is using scikit-learn?,http://lear.inrialpes.fr/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11581,Who is using scikit-learn?,https://team.inria.fr/visages/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11582,Who is using scikit-learn?,https://team.inria.fr/privatics,http://scikit-learn.org/stable/testimonials/testimonials.html
+11583,Who is using scikit-learn?,https://betaworks.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11586,Who is using scikit-learn?,https://medium.com/i-data/the-digg-video-recommender-2f9ade7c4ba3,http://scikit-learn.org/stable/testimonials/testimonials.html
+11587,Who is using scikit-learn?,https://medium.com/@DiggData/scaling-poncho-using-data-ca24569d56fd,http://scikit-learn.org/stable/testimonials/testimonials.html
+11588,Who is using scikit-learn?,https://huggingface.co,http://scikit-learn.org/stable/testimonials/testimonials.html
+11591,Who is using scikit-learn?,https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983,http://scikit-learn.org/stable/testimonials/testimonials.html
+11592,Who is using scikit-learn?,https://huggingface.co/coref/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11593,Who is using scikit-learn?,https://evernote.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11596,Who is using scikit-learn?,http://blog.evernote.com/tech/2013/01/22/stay-classified/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11597,Who is using scikit-learn?,http://www.telecom-paristech.fr,http://scikit-learn.org/stable/testimonials/testimonials.html
+11600,Who is using scikit-learn?,http://booking.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11603,Who is using scikit-learn?,http://www.aweber.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11606,Who is using scikit-learn?,https://github.com/mdbecker/pydata_2013,http://scikit-learn.org/stable/testimonials/testimonials.html
+11607,Who is using scikit-learn?,https://www.yhat.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11610,Who is using scikit-learn?,http://www.rangespan.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11613,Who is using scikit-learn?,https://www.birchbox.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11616,Who is using scikit-learn?,http://www.bestofmedia.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11619,Who is using scikit-learn?,https://www.change.org,http://scikit-learn.org/stable/testimonials/testimonials.html
+11622,Who is using scikit-learn?,http://www.phimeca.com/?lang=en,http://scikit-learn.org/stable/testimonials/testimonials.html
+11625,Who is using scikit-learn?,http://www.howaboutwe.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11628,Who is using scikit-learn?,https://www.brandwatch.com/peerindex-and-brandwatch,http://scikit-learn.org/stable/testimonials/testimonials.html
+11631,Who is using scikit-learn?,https://www.datarobot.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11634,Who is using scikit-learn?,https://www.okcupid.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11637,Who is using scikit-learn?,https://livelovely.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11640,Who is using scikit-learn?,http://www.data-publica.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11643,Who is using scikit-learn?,http://www.machinalis.com,http://scikit-learn.org/stable/testimonials/testimonials.html
+11646,Who is using scikit-learn?,https://github.com/machinalis/iepy,http://scikit-learn.org/stable/testimonials/testimonials.html
+11647,Who is using scikit-learn?,https://github.com/machinalis/featureforge,http://scikit-learn.org/stable/testimonials/testimonials.html
+11648,Who is using scikit-learn?,http://www.solidodesign.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11651,Who is using scikit-learn?,https://www.youtube.com/watch?v=Jm-eBD9xR3w,http://scikit-learn.org/stable/testimonials/testimonials.html
+11652,Who is using scikit-learn?,http://www.infonea.com/en/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11655,Who is using scikit-learn?,http://www.dataiku.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11658,Who is using scikit-learn?,"https://en.wikipedia.org/wiki/Extract,_transform,_load",http://scikit-learn.org/stable/testimonials/testimonials.html
+11659,Who is using scikit-learn?,https://ottogroup.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11662,Who is using scikit-learn?,https://github.com/ottogroup/palladium/,http://scikit-learn.org/stable/testimonials/testimonials.html
+11663,Who is using scikit-learn?,https://zopa.com/,http://scikit-learn.org/stable/testimonials/testimonials.html
+20234,1.2. Linear and Quadratic Discriminant Analysis,../auto_examples/classification/plot_lda_qda.html,http://scikit-learn.org/stable/modules/lda_qda.html
+20251,1.2. Linear and Quadratic Discriminant Analysis,../auto_examples/classification/plot_lda.html,http://scikit-learn.org/stable/modules/lda_qda.html
+22739,1.5. Stochastic Gradient Descent,https://en.wikipedia.org/wiki/Support_vector_machine,http://scikit-learn.org/stable/modules/sgd.html
+22740,1.5. Stochastic Gradient Descent,https://en.wikipedia.org/wiki/Logistic_regression,http://scikit-learn.org/stable/modules/sgd.html
+22768,1.5. Stochastic Gradient Descent,https://docs.scipy.org/doc/scipy/reference/sparse.html,http://scikit-learn.org/stable/modules/sgd.html
+22769,1.5. Stochastic Gradient Descent,http://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csr_matrix.html,http://scikit-learn.org/stable/modules/sgd.html
+22776,1.5. Stochastic Gradient Descent,http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf,http://scikit-learn.org/stable/modules/sgd.html
+22782,1.5. Stochastic Gradient Descent,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.58.7377,http://scikit-learn.org/stable/modules/sgd.html
+22783,1.5. Stochastic Gradient Descent,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.124.4696,http://scikit-learn.org/stable/modules/sgd.html
+22784,1.5. Stochastic Gradient Descent,http://arxiv.org/pdf/1107.2490v2.pdf,http://scikit-learn.org/stable/modules/sgd.html
+22786,1.5. Stochastic Gradient Descent,http://leon.bottou.org/projects/sgd,http://scikit-learn.org/stable/modules/sgd.html
+22788,1.5. Stochastic Gradient Descent,http://leon.bottou.org/slides/largescale/lstut.pdf,http://scikit-learn.org/stable/modules/sgd.html
+22789,1.5. Stochastic Gradient Descent,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.74.8513,http://scikit-learn.org/stable/modules/sgd.html
+22790,1.5. Stochastic Gradient Descent,http://www.aclweb.org/anthology/P/P09/P09-1054.pdf,http://scikit-learn.org/stable/modules/sgd.html
+24317,1.7. Gaussian Processes,http://www.gaussianprocess.org/gpml/chapters/RW.pdf,http://scikit-learn.org/stable/modules/gaussian_process.html
+26004,1.8. Cross decomposition,https://www.stat.washington.edu/research/reports/2000/tr371.pdf,http://scikit-learn.org/stable/modules/cross_decomposition.html
+26007,1.9. Naive Bayes,http://www.cs.unb.ca/~hzhang/publications/FLAIRS04ZhangH.pdf,http://scikit-learn.org/stable/modules/naive_bayes.html
+26014,1.9. Naive Bayes,http://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf,http://scikit-learn.org/stable/modules/naive_bayes.html
+26017,1.9. Naive Bayes,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.46.1529,http://scikit-learn.org/stable/modules/naive_bayes.html
+26018,1.9. Naive Bayes,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.5542,http://scikit-learn.org/stable/modules/naive_bayes.html
+26129,1.10. Decision Trees,http://www.graphviz.org/,http://scikit-learn.org/stable/modules/tree.html
+26131,1.10. Decision Trees,http://conda.io,http://scikit-learn.org/stable/modules/tree.html
+26148,1.10. Decision Trees,http://www.montefiore.ulg.ac.be/services/stochastic/pubs/2009/DMWG09/dumont-visapp09-shortpaper.pdf,http://scikit-learn.org/stable/modules/tree.html
+26155,1.10. Decision Trees,https://en.wikipedia.org/wiki/ID3_algorithm,http://scikit-learn.org/stable/modules/tree.html
+26156,1.10. Decision Trees,https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29,http://scikit-learn.org/stable/modules/tree.html
+26160,1.10. Decision Trees,https://en.wikipedia.org/wiki/Decision_tree_learning,http://scikit-learn.org/stable/modules/tree.html
+26161,1.10. Decision Trees,https://en.wikipedia.org/wiki/Predictive_analytics,http://scikit-learn.org/stable/modules/tree.html
+31977,1.14. Semi-Supervised,https://en.wikipedia.org/wiki/Semi-supervised_learning,http://scikit-learn.org/stable/modules/label_propagation.html
+31993,1.14. Semi-Supervised,http://research.microsoft.com/en-us/people/nicolasl/efficient_ssl.pdf,http://scikit-learn.org/stable/modules/label_propagation.html
+32045,1.17. Neural network models (supervised),http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32048,1.17. Neural network models (supervised),https://en.wikipedia.org/wiki/Softmax_activation_function,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32062,1.17. Neural network models (supervised),https://en.wikipedia.org/wiki/Stochastic_gradient_descent,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32063,1.17. Neural network models (supervised),http://arxiv.org/abs/1412.6980,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32064,1.17. Neural network models (supervised),https://en.wikipedia.org/wiki/Limited-memory_BFGS,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32065,1.17. Neural network models (supervised),http://scikit-learn.org/stable/modules/sgd.html,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32066,1.17. Neural network models (supervised),http://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.fmin_l_bfgs_b.html,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32071,1.17. Neural network models (supervised),http://www.iro.umontreal.ca/~pift6266/A06/refs/backprop_old.pdf,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32072,1.17. Neural network models (supervised),http://leon.bottou.org/projects/sgd,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32074,1.17. Neural network models (supervised),http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32075,1.17. Neural network models (supervised),http://arxiv.org/pdf/1412.6980v8.pdf,http://scikit-learn.org/stable/modules/neural_networks_supervised.html
+32565,2.1. Gaussian mixture models,https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm,http://scikit-learn.org/stable/modules/mixture.html
+32571,2.1. Gaussian mixture models,../auto_examples/mixture/plot_concentration_prior.html,http://scikit-learn.org/stable/modules/mixture.html
+32589,2.1. Gaussian mixture models,https://en.wikipedia.org/wiki/Dirichlet_process#The_stick-breaking_process,http://scikit-learn.org/stable/modules/mixture.html
+33133,2.2. Manifold learning,../auto_examples/manifold/plot_lle_digits.html,http://scikit-learn.org/stable/modules/manifold.html
+33144,2.2. Manifold learning,http://science.sciencemag.org/content/290/5500/2319.full,http://scikit-learn.org/stable/modules/manifold.html
+33150,2.2. Manifold learning,http://www.sciencemag.org/content/290/5500/2323.full,http://scikit-learn.org/stable/modules/manifold.html
+33156,2.2. Manifold learning,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.70.382,http://scikit-learn.org/stable/modules/manifold.html
+33162,2.2. Manifold learning,http://www.pnas.org/content/100/10/5591,http://scikit-learn.org/stable/modules/manifold.html
+33167,2.2. Manifold learning,http://web.cse.ohio-state.edu/~mbelkin/papers/LEM_NC_03.pdf,http://scikit-learn.org/stable/modules/manifold.html
+33173,2.2. Manifold learning,http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.3693,http://scikit-learn.org/stable/modules/manifold.html
+33175,2.2. Manifold learning,https://en.wikipedia.org/wiki/Multidimensional_scaling,http://scikit-learn.org/stable/modules/manifold.html
+33185,2.2. Manifold learning,http://www.springer.com/fr/book/9780387251509,http://scikit-learn.org/stable/modules/manifold.html
+33186,2.2. Manifold learning,http://link.springer.com/article/10.1007%2FBF02289694,http://scikit-learn.org/stable/modules/manifold.html
+33187,2.2. Manifold learning,http://link.springer.com/article/10.1007%2FBF02289565,http://scikit-learn.org/stable/modules/manifold.html
+33192,2.2. Manifold learning,http://distill.pub/2016/misread-tsne/,http://scikit-learn.org/stable/modules/manifold.html
+33195,2.2. Manifold learning,http://jmlr.org/papers/v9/vandermaaten08a.html,http://scikit-learn.org/stable/modules/manifold.html
+33196,2.2. Manifold learning,http://lvdmaaten.github.io/tsne/,http://scikit-learn.org/stable/modules/manifold.html
+33197,2.2. Manifold learning,https://lvdmaaten.github.io/publications/papers/JMLR_2014.pdf,http://scikit-learn.org/stable/modules/manifold.html
+42479,2.4. Biclustering,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.3011,http://scikit-learn.org/stable/modules/biclustering.html
+42484,2.4. Biclustering,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.135.1608,http://scikit-learn.org/stable/modules/biclustering.html
+42487,2.4. Biclustering,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881408/,http://scikit-learn.org/stable/modules/biclustering.html
+45324,2.6. Covariance estimation,http://biostatistics.oxfordjournals.org/content/9/3/432.short,http://scikit-learn.org/stable/modules/covariance.html
+45339,2.6. Covariance estimation,../auto_examples/covariance/plot_robust_vs_empirical_covariance.html,http://scikit-learn.org/stable/modules/covariance.html
+45340,2.6. Covariance estimation,../auto_examples/covariance/plot_mahalanobis_distances.html,http://scikit-learn.org/stable/modules/covariance.html
+45824,2.7. Novelty and Outlier Detection,http://dl.acm.org/citation.cfm?id=1119749,http://scikit-learn.org/stable/modules/outlier_detection.html
+45852,2.7. Novelty and Outlier Detection,http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf,http://scikit-learn.org/stable/modules/outlier_detection.html
+46218,2.8. Density Estimation,../auto_examples/neighbors/plot_kde_1d.html,http://scikit-learn.org/stable/modules/density.html
+46226,2.8. Density Estimation,https://en.wikipedia.org/wiki/Haversine_formula,http://scikit-learn.org/stable/modules/density.html
+46227,2.8. Density Estimation,../auto_examples/neighbors/plot_species_kde.html,http://scikit-learn.org/stable/modules/density.html
+46228,2.8. Density Estimation,../auto_examples/neighbors/plot_digits_kde_sampling.html,http://scikit-learn.org/stable/modules/density.html
+46281,2.9. Neural network models (unsupervised),http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf,http://scikit-learn.org/stable/modules/neural_networks_unsupervised.html
+46282,2.9. Neural network models (unsupervised),http://www.cs.toronto.edu/~tijmen/pcd/pcd.pdf,http://scikit-learn.org/stable/modules/neural_networks_unsupervised.html
+49675,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1413,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49680,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49691,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1599,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49693,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1075,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49695,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49697,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49705,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49707,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49709,3.2.4.1.1. sklearn.linear_model.ElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html
+49713,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L972,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49718,3.2.4.1.2. sklearn.linear_model.LarsCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49728,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1093,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49731,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1108,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49733,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49735,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49737,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49739,3.2.4.1.2. sklearn.linear_model.LarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html
+49743,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1248,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49748,3.2.4.1.3. sklearn.linear_model.LassoCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49762,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1401,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49764,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1075,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49766,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49768,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L126,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49778,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49780,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49782,3.2.4.1.3. sklearn.linear_model.LassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
+49837,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1196,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49842,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49853,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1338,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49856,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1108,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49858,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49860,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49862,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49864,3.2.4.1.4. sklearn.linear_model.LassoLarsCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html
+49903,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1437,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49908,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49921,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1658,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49923,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L235,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49925,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L314,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49927,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1680,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49929,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49931,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49933,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1418,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49935,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1377,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49937,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/logistic.py#L1890,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49939,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49941,3.2.4.1.5. sklearn.linear_model.LogisticRegressionCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L332,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html
+49945,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1944,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49950,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49961,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L2111,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49963,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1075,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49965,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49967,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49975,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49977,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49979,3.2.4.1.6. sklearn.linear_model.MultiTaskElasticNetCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html
+49983,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L2132,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+49988,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+49999,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L2277,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50001,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L1075,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50003,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50005,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L126,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50015,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50017,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50019,3.2.4.1.7. sklearn.linear_model.MultiTaskLassoCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html
+50023,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/omp.py#L756,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50028,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50043,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/omp.py#L855,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50045,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/omp.py#L865,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50047,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50049,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50051,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50053,3.2.4.1.8. sklearn.linear_model.OrthogonalMatchingPursuitCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html
+50095,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1170,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50110,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1111,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50112,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1123,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50114,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50116,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50118,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50120,3.2.4.1.9. sklearn.linear_model.RidgeCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html
+50159,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1279,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50173,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1382,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50175,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L235,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50177,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/ridge.py#L1390,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50179,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50181,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50183,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50185,3.2.4.1.10. sklearn.linear_model.RidgeClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html
+50248,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1357,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50255,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://en.wikipedia.org/wiki/Akaike_information_criterion,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50256,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://en.wikipedia.org/wiki/Bayesian_information_criterion,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50262,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1474,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50264,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/least_angle.py#L1488,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50266,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50268,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L200,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50270,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50272,3.2.4.2.1. sklearn.linear_model.LassoLarsIC,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html
+50367,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L753,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50370,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50385,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L993,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50387,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L160,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50389,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L184,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50392,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L220,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50394,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50396,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L525,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50398,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L607,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50400,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L561,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50402,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50404,3.2.4.3.1. sklearn.ensemble.RandomForestClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+50469,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1038,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50472,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50486,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1251,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50488,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L160,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50490,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L184,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50493,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L220,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50495,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50497,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L669,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50499,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50501,3.2.4.3.2. sklearn.ensemble.RandomForestRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+50549,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1294,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50552,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50568,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1504,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50570,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L160,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50572,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L184,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50575,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L220,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50577,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50579,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L525,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50581,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L607,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50583,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L561,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50585,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50587,3.2.4.3.3. sklearn.ensemble.ExtraTreesClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+50643,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1549,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50646,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50660,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L1726,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50662,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L160,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50664,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L184,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50667,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L220,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50669,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50671,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/forest.py#L669,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50673,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50675,3.2.4.3.4. sklearn.ensemble.ExtraTreesRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+50719,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1684,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50739,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1935,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50741,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1648,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50743,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1972,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50746,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1355,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50748,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50751,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2021,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50753,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2092,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50755,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2062,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50757,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50759,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50761,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1996,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50763,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2040,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50765,3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2116,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+50831,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2144,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50844,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2389,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50846,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2451,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50849,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L1355,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50851,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50854,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2412,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50856,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50858,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+50860,3.2.4.3.6. sklearn.ensemble.GradientBoostingRegressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/gradient_boosting.py#L2430,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+60934,3.4. Model persistence,https://docs.python.org/2/library/pickle.html,http://scikit-learn.org/stable/modules/model_persistence.html
+60935,3.4. Model persistence,https://pythonhosted.org/joblib/persistence.html,http://scikit-learn.org/stable/modules/model_persistence.html
+60937,3.4. Model persistence,http://pyvideo.org/video/2566/pickles-are-for-delis-not-software,http://scikit-learn.org/stable/modules/model_persistence.html
+60952,3.5. Validation curves: plotting scores to evaluate models,https://en.wikipedia.org/wiki/Bias-variance_dilemma,http://scikit-learn.org/stable/modules/learning_curve.html
+61100,4.1. Pipelines and composite estimators,https://pythonhosted.org/joblib/memory.html,http://scikit-learn.org/stable/modules/compose.html
+61121,4.1. Pipelines and composite estimators,http://pandas.pydata.org/,http://scikit-learn.org/stable/modules/compose.html
+61126,4.1. Pipelines and composite estimators,http://pandas.pydata.org/pandas-docs/stable/,http://scikit-learn.org/stable/modules/compose.html
+64901,4.6. Random Projection,http://cseweb.ucsd.edu/~dasgupta/papers/randomf.pdf,http://scikit-learn.org/stable/modules/random_projection.html
+64902,4.6. Random Projection,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.5135&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/random_projection.html
+64904,4.6. Random Projection,https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma,http://scikit-learn.org/stable/modules/random_projection.html
+64909,4.6. Random Projection,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.3334&rep=rep1&type=pdf,http://scikit-learn.org/stable/modules/random_projection.html
+64914,4.6. Random Projection,http://www.cs.ucsc.edu/~optas/papers/jl.pdf,http://scikit-learn.org/stable/modules/random_projection.html
+64915,4.6. Random Projection,https://web.stanford.edu/~hastie/Papers/Ping/KDD06_rp.pdf,http://scikit-learn.org/stable/modules/random_projection.html
+64975,4.7. Kernel Approximation,https://en.wikipedia.org/wiki/Kernel_trick,http://scikit-learn.org/stable/modules/kernel_approximation.html
+65005,4.7. Kernel Approximation,http://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf,http://scikit-learn.org/stable/modules/kernel_approximation.html
+65007,4.7. Kernel Approximation,http://www.maths.lth.se/matematiklth/personal/sminchis/papers/lis_dagm10.pdf,http://scikit-learn.org/stable/modules/kernel_approximation.html
+65010,4.7. Kernel Approximation,https://www.robots.ox.ac.uk/~vgg/publications/2011/Vedaldi11/vedaldi11.pdf,http://scikit-learn.org/stable/modules/kernel_approximation.html
+65012,4.7. Kernel Approximation,https://www.robots.ox.ac.uk/~vgg/publications/2010/Sreekanth10/sreekanth10.pdf,http://scikit-learn.org/stable/modules/kernel_approximation.html
+65220,"4.8. Pairwise metrics, Affinities and Kernels",http://nlp.stanford.edu/IR-book/html/htmledition/the-vector-space-model-for-scoring-1.html,http://scikit-learn.org/stable/modules/metrics.html
+65232,"4.8. Pairwise metrics, Affinities and Kernels",http://onlinelibrary.wiley.com/doi/10.1002/qua.24954/abstract/,http://scikit-learn.org/stable/modules/metrics.html
+65236,"4.8. Pairwise metrics, Affinities and Kernels",http://research.microsoft.com/en-us/um/people/manik/projects/trade-off/papers/ZhangIJCV06.pdf,http://scikit-learn.org/stable/modules/metrics.html
+65445,5. Dataset loading utilities,https://archive.ics.uci.edu/ml/machine-learning-databases/housing/,http://scikit-learn.org/stable/datasets/index.html
+65447,5. Dataset loading utilities,mailto:MARSHALL%PLU%40io.arc.nasa.gov,http://scikit-learn.org/stable/datasets/index.html
+65449,5. Dataset loading utilities,http://www4.stat.ncsu.edu/~boos/var.select/diabetes.html,http://scikit-learn.org/stable/datasets/index.html
+65450,5. Dataset loading utilities,http://web.stanford.edu/~hastie/Papers/LARS/LeastAngle_2002.pdf,http://scikit-learn.org/stable/datasets/index.html
+65452,5. Dataset loading utilities,http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits,http://scikit-learn.org/stable/datasets/index.html
+65456,5. Dataset loading utilities,https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data,http://scikit-learn.org/stable/datasets/index.html
+65457,5. Dataset loading utilities,http://archive.ics.uci.edu/ml,http://scikit-learn.org/stable/datasets/index.html
+65459,5. Dataset loading utilities,https://goo.gl/U2Uwz2,http://scikit-learn.org/stable/datasets/index.html
+65471,5. Dataset loading utilities,http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html,http://scikit-learn.org/stable/datasets/index.html
+65479,5. Dataset loading utilities,http://people.csail.mit.edu/jrennie/20Newsgroups/,http://scikit-learn.org/stable/datasets/index.html
+65483,5. Dataset loading utilities,https://en.wikipedia.org/wiki/Tf-idf,http://scikit-learn.org/stable/datasets/index.html
+65491,5. Dataset loading utilities,http://vis-www.cs.umass.edu/lfw/,http://scikit-learn.org/stable/datasets/index.html
+65496,5. Dataset loading utilities,http://vis-www.cs.umass.edu/lfw/lfw.pdf,http://scikit-learn.org/stable/datasets/index.html
+65500,5. Dataset loading utilities,http://archive.ics.uci.edu/ml/datasets/Covertype,http://scikit-learn.org/stable/datasets/index.html
+65506,5. Dataset loading utilities,http://jmlr.csail.mit.edu/papers/volume5/lewis04a/,http://scikit-learn.org/stable/datasets/index.html
+65510,5. Dataset loading utilities,http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html,http://scikit-learn.org/stable/datasets/index.html
+65513,5. Dataset loading utilities,http://lib.stat.cmu.edu/datasets/,http://scikit-learn.org/stable/datasets/index.html
+65554,5. Dataset loading utilities,https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets,http://scikit-learn.org/stable/datasets/index.html
+65555,5. Dataset loading utilities,https://github.com/mblondel/svmlight-loader,http://scikit-learn.org/stable/datasets/index.html
+65557,5. Dataset loading utilities,https://openml.org,http://scikit-learn.org/stable/datasets/index.html
+65560,5. Dataset loading utilities,https://docs.openml.org/#data,http://scikit-learn.org/stable/datasets/index.html
+65562,5. Dataset loading utilities,https://arxiv.org/pdf/1407.7722.pdf,http://scikit-learn.org/stable/datasets/index.html
+65564,5. Dataset loading utilities,https://pandas.pydata.org/pandas-docs/stable/io.html,http://scikit-learn.org/stable/datasets/index.html
+65565,5. Dataset loading utilities,https://docs.scipy.org/doc/scipy/reference/io.html,http://scikit-learn.org/stable/datasets/index.html
+65566,5. Dataset loading utilities,https://docs.scipy.org/doc/numpy/reference/routines.io.html,http://scikit-learn.org/stable/datasets/index.html
+65567,5. Dataset loading utilities,http://scikit-image.org/docs/dev/api/skimage.io.html,http://scikit-learn.org/stable/datasets/index.html
+65568,5. Dataset loading utilities,https://imageio.readthedocs.io/en/latest/userapi.html,http://scikit-learn.org/stable/datasets/index.html
+65569,5. Dataset loading utilities,https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.io.wavfile.read.html,http://scikit-learn.org/stable/datasets/index.html
+70787,6. Computing with scikit-learn,../auto_examples/applications/plot_out_of_core_classification.html,http://scikit-learn.org/stable/modules/computing.html
+70794,6. Computing with scikit-learn,../auto_examples/applications/plot_prediction_latency.html,http://scikit-learn.org/stable/modules/computing.html
+70803,6. Computing with scikit-learn,http://docs.scipy.org/doc/scipy/reference/sparse.html,http://scikit-learn.org/stable/modules/computing.html
+70807,6. Computing with scikit-learn,../auto_examples/applications/plot_model_complexity_influence.html,http://scikit-learn.org/stable/modules/computing.html
+70817,6. Computing with scikit-learn,https://wiki.python.org/moin/GlobalInterpreterLock,http://scikit-learn.org/stable/modules/computing.html
+70820,6. Computing with scikit-learn,https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms,http://scikit-learn.org/stable/modules/computing.html
+70821,6. Computing with scikit-learn,https://en.wikipedia.org/wiki/LAPACK,http://scikit-learn.org/stable/modules/computing.html
+70822,6. Computing with scikit-learn,http://docs.scipy.org/doc/numpy/user/install.html,http://scikit-learn.org/stable/modules/computing.html
+70823,6. Computing with scikit-learn,"http://danielnouri.org/notes/2012/12/19/libblas-and-liblapack-issues-and-speed,-with-scipy-and-ubuntu/",http://scikit-learn.org/stable/modules/computing.html
+70827,6. Computing with scikit-learn,https://github.com/scikit-learn/scikit-learn/blob/master/benchmarks/bench_sparsify.py,http://scikit-learn.org/stable/modules/computing.html
+70830,6. Computing with scikit-learn,../developers/performance.html,http://scikit-learn.org/stable/modules/computing.html
+70834,6. Computing with scikit-learn,https://joblib.readthedocs.io/en/latest/,http://scikit-learn.org/stable/modules/computing.html
+75103,Column Transformer with Mixed Types,https://sphinx-gallery.readthedocs.io,http://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html#sphx-glr-auto-examples-compose-plot-column-transformer-mixed-types-py
+75384,A tutorial on statistical-learning for scientific data processing,https://en.wikipedia.org/wiki/Machine_learning,http://scikit-learn.org/stable/tutorial/statistical_inference/index.html#stat-learn-tut-index
+75385,A tutorial on statistical-learning for scientific data processing,https://en.wikipedia.org/wiki/Statistical_inference,http://scikit-learn.org/stable/tutorial/statistical_inference/index.html#stat-learn-tut-index
+75386,A tutorial on statistical-learning for scientific data processing,http://www.scipy.org,http://scikit-learn.org/stable/tutorial/statistical_inference/index.html#stat-learn-tut-index
+75388,A tutorial on statistical-learning for scientific data processing,http://matplotlib.org,http://scikit-learn.org/stable/tutorial/statistical_inference/index.html#stat-learn-tut-index
+75656,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L137,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75659,sklearn.decomposition.LatentDirichletAllocation,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75661,sklearn.decomposition.LatentDirichletAllocation,https://github.com/blei-lab/onlineldavb,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75670,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L284,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75672,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L529,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75674,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75676,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75678,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L488,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75680,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L798,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75682,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L727,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75684,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+75686,sklearn.decomposition.LatentDirichletAllocation,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/online_lda.py#L631,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#sklearn.decomposition.LatentDirichletAllocation
+77122,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L518,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77129,sklearn.tree.DecisionTreeClassifier,https://en.wikipedia.org/wiki/Decision_tree_learning,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77133,sklearn.tree.DecisionTreeClassifier,http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77143,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L730,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77145,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L442,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77147,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L471,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77150,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L759,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77152,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77154,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L391,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77156,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L853,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77158,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/tree/tree.py#L802,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77160,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77162,sklearn.tree.DecisionTreeClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+77552,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L106,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77556,sklearn.decomposition.PCA,http://www.miketipping.com/papers/met-mppca.pdf,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77573,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L313,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77575,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L324,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77577,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L343,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77579,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/base.py#L27,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77581,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77583,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/base.py#L48,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77585,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/base.py#L136,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77587,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L575,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77590,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/pca.py#L547,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77593,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77595,sklearn.decomposition.PCA,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/decomposition/base.py#L99,http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+77815,sklearn.utils.estimator_checks.check_estimator,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/estimator_checks.py#L271,http://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.check_estimator.html#sklearn.utils.estimator_checks.check_estimator
+77867,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L693,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77878,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L754,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77880,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L758,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77882,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77884,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77886,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L795,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77888,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77890,sklearn.preprocessing.OrdinalEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L778,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html#sklearn.preprocessing.OrdinalEncoder
+77894,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L123,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77912,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L273,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77916,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L391,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77918,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L474,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77920,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L660,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77922,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77924,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L593,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77927,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+77929,sklearn.preprocessing.OneHotEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/_encoders.py#L573,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder
+78167,sklearn.base.clone,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L30,http://scikit-learn.org/stable/modules/generated/sklearn.base.clone.html#sklearn.base.clone
+78218,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L29,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78232,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L117,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78234,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L384,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78236,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L239,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78238,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L334,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78240,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L270,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78242,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L122,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78245,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L306,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78247,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L404,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78249,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L364,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78251,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L486,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78253,sklearn.pipeline.Pipeline,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L138,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+78271,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L623,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78274,sklearn.pipeline.FeatureUnion,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78283,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L669,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78285,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L748,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78287,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L772,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78289,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L730,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78291,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L676,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78293,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L692,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+78295,sklearn.pipeline.FeatureUnion,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/pipeline.py#L806,http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+80646,sklearn.base.ClassifierMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L259,http://scikit-learn.org/stable/modules/generated/sklearn.base.ClassifierMixin.html#sklearn.base.ClassifierMixin
+80650,sklearn.base.ClassifierMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.base.ClassifierMixin.html#sklearn.base.ClassifierMixin
+80701,sklearn.base.is_classifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L520,http://scikit-learn.org/stable/modules/generated/sklearn.base.is_classifier.html#sklearn.base.is_classifier
+81034,sklearn.exceptions.NotFittedError,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/exceptions.py#L18,http://scikit-learn.org/stable/modules/generated/sklearn.exceptions.NotFittedError.html#sklearn.exceptions.NotFittedError
+81133,sklearn.utils.validation.check_is_fitted,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/validation.py#L894,http://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.check_is_fitted.html#sklearn.utils.validation.check_is_fitted
+81231,sklearn.linear_model.enet_path,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/coordinate_descent.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.enet_path.html#sklearn.linear_model.enet_path
+81243,sklearn.manifold.spectral_embedding,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/manifold/spectral_embedding_.py#L136,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn.manifold.spectral_embedding
+81246,sklearn.manifold.spectral_embedding,https://en.wikipedia.org/wiki/LOBPCG,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn.manifold.spectral_embedding
+81247,sklearn.manifold.spectral_embedding,https://doi.org/10.1137%2FS1064827500366124,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn.manifold.spectral_embedding
+81250,sklearn.cluster.dbscan,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/dbscan_.py#L22,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.dbscan.html#sklearn.cluster.dbscan
+81254,sklearn.cluster.dbscan,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.dbscan.html#sklearn.cluster.dbscan
+81308,sklearn.preprocessing.maxabs_scale,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/data.py#L968,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.maxabs_scale.html#sklearn.preprocessing.maxabs_scale
+81965,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/impute.py#L93,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81973,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/impute.py#L163,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81975,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/impute.py#L210,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81977,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81979,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81981,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+81983,sklearn.impute.SimpleImputer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/impute.py#L353,http://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer
+84355,sklearn.metrics.pairwise_distances,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/metrics/pairwise.py#L1290,http://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn.metrics.pairwise_distances
+84358,sklearn.metrics.pairwise_distances,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn.metrics.pairwise_distances
+85216,sklearn.neighbors.kneighbors_graph,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/graph.py#L34,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.kneighbors_graph.html#sklearn.neighbors.kneighbors_graph
+85220,sklearn.neighbors.kneighbors_graph,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.kneighbors_graph.html#sklearn.neighbors.kneighbors_graph
+85699,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/manifold/t_sne.py#L475,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85702,sklearn.manifold.TSNE,https://lvdmaaten.github.io/tsne/,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85703,sklearn.manifold.TSNE,http://lvdmaaten.github.io/publications/papers/JMLR_2014.pdf,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85708,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/manifold/t_sne.py#L629,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85710,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/manifold/t_sne.py#L898,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85712,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/manifold/t_sne.py#L877,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85714,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85717,sklearn.manifold.TSNE,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE
+85726,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/hierarchical.py#L656,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85733,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/hierarchical.py#L752,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85735,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/hierarchical.py#L764,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85737,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L337,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85739,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85741,sklearn.cluster.AgglomerativeClustering,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering
+85753,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/lof.py#L19,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85761,sklearn.neighbors.LocalOutlierFactor,http://docs.scipy.org/doc/scipy/reference/spatial.distance.html,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85762,sklearn.neighbors.LocalOutlierFactor,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85773,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/lof.py#L150,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85776,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/lof.py#L216,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85779,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85781,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/base.py#L323,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85783,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/neighbors/base.py#L483,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+85788,sklearn.neighbors.LocalOutlierFactor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+87970,sklearn.base.BaseEstimator,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L129,http://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html#sklearn.base.BaseEstimator
+87975,sklearn.base.BaseEstimator,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html#sklearn.base.BaseEstimator
+87977,sklearn.base.BaseEstimator,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html#sklearn.base.BaseEstimator
+88459,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/model_selection/_search.py#L866,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88465,sklearn.model_selection.GridSearchCV,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88483,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/model_selection/_search.py#L1177,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88485,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L527,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88487,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/model_selection/_search.py#L617,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88489,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88491,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L561,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88493,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L476,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88495,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L510,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88497,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L493,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88499,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/model_selection/_search.py#L436,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88501,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88503,sklearn.model_selection.GridSearchCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L544,http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+88528,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/from_model.py#L82,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88538,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/from_model.py#L135,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88540,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/from_model.py#L165,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88542,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88544,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88546,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/base.py#L27,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88548,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/base.py#L86,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88550,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L205,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88552,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88554,sklearn.feature_selection.SelectFromModel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/feature_selection/base.py#L62,http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+88561,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L426,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88569,sklearn.ensemble.BaggingClassifier,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88588,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L548,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88590,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L757,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88593,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L221,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88595,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88597,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L625,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88599,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L699,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88601,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/ensemble/bagging.py#L647,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88603,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+88605,sklearn.ensemble.BaggingClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html#sklearn.ensemble.BaggingClassifier
+90052,sklearn.base.RegressorMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L292,http://scikit-learn.org/stable/modules/generated/sklearn.base.RegressorMixin.html#sklearn.base.RegressorMixin
+90056,sklearn.base.RegressorMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L296,http://scikit-learn.org/stable/modules/generated/sklearn.base.RegressorMixin.html#sklearn.base.RegressorMixin
+90107,sklearn.base.is_regressor,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L536,http://scikit-learn.org/stable/modules/generated/sklearn.base.is_regressor.html#sklearn.base.is_regressor
+91136,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L119,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91149,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L335,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91152,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L201,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91154,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L339,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91156,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L125,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91159,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L358,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91162,sklearn.gaussian_process.kernels.Kernel,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/gaussian_process/kernels.py#L164,http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel
+91354,sklearn.utils.multiclass.type_of_target,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/multiclass.py#L174,http://scikit-learn.org/stable/modules/generated/sklearn.utils.multiclass.type_of_target.html#sklearn.utils.multiclass.type_of_target
+91552,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L163,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91563,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L207,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91565,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L223,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91567,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91569,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L260,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91571,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91573,sklearn.preprocessing.LabelEncoder,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L239,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder
+91818,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L764,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91827,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L808,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91829,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L812,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91831,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L835,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91833,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91835,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L936,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91837,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91839,sklearn.preprocessing.MultiLabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L876,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html#sklearn.preprocessing.MultiLabelBinarizer
+91843,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L286,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91854,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L377,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91856,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L392,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91858,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L416,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91860,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91862,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L469,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91864,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+91866,sklearn.preprocessing.LabelBinarizer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/preprocessing/label.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html#sklearn.preprocessing.LabelBinarizer
+93149,sklearn.base.TransformerMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L435,http://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html#sklearn.base.TransformerMixin
+93153,sklearn.base.TransformerMixin,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html#sklearn.base.TransformerMixin
+93648,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L324,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93654,sklearn.cluster.Birch,http://www.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93655,sklearn.cluster.Birch,https://code.google.com/archive/p/jbirch,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93664,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L428,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93666,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L436,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93668,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L337,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93670,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L438,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93672,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93674,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L518,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93676,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L555,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93678,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+93680,sklearn.cluster.Birch,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/birch.py#L578,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch
+94513,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/stochastic_gradient.py#L731,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94516,sklearn.linear_model.SGDClassifier,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94530,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/stochastic_gradient.py#L959,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94532,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L235,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94534,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L314,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94536,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/stochastic_gradient.py#L697,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94538,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94541,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/stochastic_gradient.py#L655,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94543,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L268,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94548,sklearn.linear_model.SGDClassifier,http://www.research.ibm.com/people/z/zadrozny/kdd2002-Transf.pdf,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94549,sklearn.linear_model.SGDClassifier,http://jmlr.csail.mit.edu/papers/volume2/zhang02c/zhang02c.pdf,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94550,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+94552,sklearn.linear_model.SGDClassifier,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/linear_model/base.py#L332,http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
+95707,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/multioutput.py#L476,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95718,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/multioutput.py#L372,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95720,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L600,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95722,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/multioutput.py#L551,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95724,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95726,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/multioutput.py#L442,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95728,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/metaestimators.py#L571,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95730,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95732,sklearn.multioutput.ClassifierChain,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html#sklearn.multioutput.ClassifierChain
+95738,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/calibration.py#L30,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95754,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/calibration.py#L106,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95756,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/calibration.py#L111,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95758,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95760,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/calibration.py#L229,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95762,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/calibration.py#L199,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95764,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L263,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+95766,sklearn.calibration.CalibratedClassifierCV,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html#sklearn.calibration.CalibratedClassifierCV
+96027,sklearn.exceptions.ConvergenceWarning,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/exceptions.py#L48,http://scikit-learn.org/stable/modules/generated/sklearn.exceptions.ConvergenceWarning.html#sklearn.exceptions.ConvergenceWarning
+96037,sklearn.utils.validation.check_memory,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/validation.py#L182,http://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.check_memory.html#sklearn.utils.validation.check_memory
+96387,sklearn.utils.parallel_backend,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/externals/joblib/parallel.py#L122,http://scikit-learn.org/stable/modules/generated/sklearn.utils.parallel_backend.html#sklearn.utils.parallel_backend
+96393,sklearn.utils.check_random_state,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/utils/validation.py#L791,http://scikit-learn.org/stable/modules/generated/sklearn.utils.check_random_state.html#sklearn.utils.check_random_state
+96510,sklearn.metrics.get_scorer,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/metrics/scorer.py#L201,http://scikit-learn.org/stable/modules/generated/sklearn.metrics.get_scorer.html#sklearn.metrics.get_scorer
+96926,sklearn.metrics.check_scoring,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/metrics/scorer.py#L231,http://scikit-learn.org/stable/modules/generated/sklearn.metrics.check_scoring.html#sklearn.metrics.check_scoring
+98364,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/dbscan_.py#L177,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98368,sklearn.cluster.DBSCAN,https://joblib.readthedocs.io/en/latest/parallel.html#joblib.parallel_backend,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98376,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/dbscan_.py#L287,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98378,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/dbscan_.py#L299,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98380,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/cluster/dbscan_.py#L329,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98382,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L166,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
+98384,sklearn.cluster.DBSCAN,https://github.com/scikit-learn/scikit-learn/blob/bac89c2/sklearn/base.py#L189,http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN
